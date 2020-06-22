@@ -1,0 +1,26 @@
+{
+    "profile":[   
+   {
+    "basics":{
+     "name":"Roshini",
+     "role":"Student",
+     "phone":"7569539566",
+     "email":"roshinikotagiri21@gmail.com"
+    },
+    "career":"i' want to expore my entire knowledge"
+
+   },
+
+
+   {
+    "basics":{
+     "name":"Sita",
+     "role":"student",
+     "phone":"9492714037",
+     "email":"sita13@gmail.com"
+    },
+    "career":"i' want to expore my entire knowledge"
+
+   }
+   ]
+}
